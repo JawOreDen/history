@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1583306346437-f2143c0f11fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80);
+    /* background-color: orangered; */
+}
+
+#heady {
+    color: whitesmoke;
+}
+
+#navcolor {
+    color: whitesmoke;
+}
+
+#jumbo {
+    background-color: rgba(255, 255, 255, 0.55);
+}
+
+h4 {
+    color: whitesmoke;
+    text-decoration: underline;
+    font-size: 1.44rem;
+}
+
+#firstpara {
+    color: whitesmoke;
+    font-size: 1.15rem;
+}
+
+h5 {
+    color: whitesmoke;
+}
+
+.form {
+    border-style: groove;
+    border: groove;
+    border-color: red;
+}
+
+form {
+    color: whitesmoke;
+}
