@@ -1,5 +1,5 @@
-firstPara = document.getElementById('firstpara');
+firstPara = document.querySelector("p");
 
-firstPara.addEventListener("mouseover", function () {
-    event.target.style.color = 'red';
-  })
+firstPara.addEventListener('mouseover', function() {
+  firstPara.style.fontcolor = "red";
+})
