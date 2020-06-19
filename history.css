@@ -16,13 +16,18 @@ body {
 }
 
 h4 {
-    color: whitesmoke;
+    color: orange;
     text-decoration: underline;
     font-size: 1.44rem;
 }
 
+#mission {
+    color: rgb(255, 238, 1);
+    text-shadow: 1px 1px blue;
+}
+
 #firstpara {
-    color: whitesmoke;
+    color: orange;
     font-size: 1.15rem;
 }
 
